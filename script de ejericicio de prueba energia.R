@@ -1,1 +1,1 @@
-push en lectura y explotacion
+#push en lectura y explotacionx
