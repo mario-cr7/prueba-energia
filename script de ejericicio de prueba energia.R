@@ -1,1 +1,1 @@
-#push en lectura y explotacionx
+#push en lectura y explotacionx c
